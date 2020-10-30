@@ -1,0 +1,7 @@
+1. ¿Qué nacionalidades hay?
+2. ¿Cuántos escritores hay de cada nacionalidad?
+3. ¿Cuántos libros hay de cada nacionalidad?
+4. ¿Cuál es el promedio/desviación standard del precio de libros?
+5. Idem, por nacionalidad
+6. ¿Cuál es el precio máximo/mínimo de un libro?
+7. ¿Cómo quedaría el reporte de prestamos?
